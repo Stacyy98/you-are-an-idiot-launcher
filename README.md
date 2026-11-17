@@ -4,7 +4,7 @@ A working rebuild of the old `youdontknowwhoiam.org` prank page on modern Window
 
 The original was a Flash page that spawned a storm of bouncing browser windows. Browsers
 can no longer do any of it, no Flash plugin, `window.moveTo()` is ignored, and popups on
-unload are blocked — so this project reimplements only the *host*, in C#, driving the
+unload are blocked, so this project reimplements only the *host*, in C#, driving the
 **original, unmodified `youare.swf`** through the standalone Flash player.
 
 ## What it does
